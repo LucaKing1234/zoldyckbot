@@ -1,2 +1,1 @@
 # zoldyckbot
-zoldyckbot
